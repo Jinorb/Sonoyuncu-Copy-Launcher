@@ -1,0 +1,14 @@
+C:\Users\Mert\source\repos\SonOyuncu Launcher\SonOyuncu Launcher\bin\Debug\SonOyuncu Launcher.exe.config
+C:\Users\Mert\source\repos\SonOyuncu Launcher\SonOyuncu Launcher\bin\Debug\SonOyuncu Launcher.exe
+C:\Users\Mert\source\repos\SonOyuncu Launcher\SonOyuncu Launcher\bin\Debug\SonOyuncu Launcher.pdb
+C:\Users\Mert\source\repos\SonOyuncu Launcher\SonOyuncu Launcher\bin\Debug\Bunifu_UI_v1.52.dll
+C:\Users\Mert\source\repos\SonOyuncu Launcher\SonOyuncu Launcher\obj\Debug\SonOyuncu Launcher.csprojAssemblyReference.cache
+C:\Users\Mert\source\repos\SonOyuncu Launcher\SonOyuncu Launcher\obj\Debug\SonOyuncu_Launcher.Form1.resources
+C:\Users\Mert\source\repos\SonOyuncu Launcher\SonOyuncu Launcher\obj\Debug\SonOyuncu_Launcher.Properties.Resources.resources
+C:\Users\Mert\source\repos\SonOyuncu Launcher\SonOyuncu Launcher\obj\Debug\SonOyuncu Launcher.csproj.GenerateResource.cache
+C:\Users\Mert\source\repos\SonOyuncu Launcher\SonOyuncu Launcher\obj\Debug\SonOyuncu Launcher.csproj.CoreCompileInputs.cache
+C:\Users\Mert\source\repos\SonOyuncu Launcher\SonOyuncu Launcher\obj\Debug\SonOyuncu Launcher.csproj.CopyComplete
+C:\Users\Mert\source\repos\SonOyuncu Launcher\SonOyuncu Launcher\obj\Debug\SonOyuncu Launcher.exe
+C:\Users\Mert\source\repos\SonOyuncu Launcher\SonOyuncu Launcher\obj\Debug\SonOyuncu Launcher.pdb
+C:\Users\Mert\source\repos\SonOyuncu Launcher\SonOyuncu Launcher\obj\Debug\SonOyuncu_Launcher.Form2.resources
+C:\Users\Mert\source\repos\SonOyuncu Launcher\SonOyuncu Launcher\obj\Debug\SonOyuncu_Launcher.Form3.resources
